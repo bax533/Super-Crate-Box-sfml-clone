@@ -11,4 +11,4 @@ on linux:
 	  __
 	 |__| |<--
 	 	
-	Then to save the map click ctrl + s and switch 1.txt file in maps folder with your saved map.
+	Then to save the map click ctrl + s and switch 1.txt file in levels folder with your saved map.
