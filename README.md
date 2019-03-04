@@ -8,7 +8,7 @@ on linux:
 	you pick the block and put it on map with left mouse button.
 	Every floor block should be ended with small wall with arrow facing it.
 	example:
-		__
+	  __
 	 |__| |<--
 	 	
 	Then to save the map click ctrl + s and switch 1.txt file in maps folder with your saved map.
